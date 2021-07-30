@@ -1,3 +1,3 @@
-# To-Do-list
+# To-Do list app
 
-The main file for a to-do list in flutter
+The main file for a to-do list app in flutter
